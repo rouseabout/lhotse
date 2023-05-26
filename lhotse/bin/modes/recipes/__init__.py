@@ -7,6 +7,7 @@ from .aishell4 import *
 from .ali_meeting import *
 from .ami import *
 from .aspire import *
+from .atco2 import *
 from .atcosim import *
 from .babel import *
 from .broadcast_news import *
